@@ -1,9 +1,3 @@
-Here's a name suggestion first: **BriefIt** — clean, action-oriented, and memorable. Other options: **CondenseAI**, **TLDRify**, or **Nucleus**.
-
-Now, the README:
-
----
-
 # BriefIt — T5 Fine-Tuned Text Summarizer
 
 > Paste long. Get short. Powered by a fine-tuned T5 model.
